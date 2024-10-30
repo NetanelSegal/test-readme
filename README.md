@@ -39,8 +39,8 @@ Welcome to **Cengineers**, the official chat application developed by our team o
 The following technologies are used to build and maintain **Cengineers**:
 
 - **Backend**: Node.js, Express.js
-- **Frontend**: React.js, Redux
-- **Database**: MongoDB
+- **Frontend**: React.js
+- **Database**: MongoDB, Redis
 - **Real-Time Communication**: WebSockets with Socket.IO
 - **Authentication**: JWT (JSON Web Token)
 - **Styling**: Sass
